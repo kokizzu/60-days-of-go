@@ -1,9 +1,9 @@
-# 60 days of go
+# 60 days of Go
 :card_index_dividers: 60 days discovering go
 
-Heavily inspired by [Going.go](https://goinggo.io/) of my friend [@joaoh82](https://github.com/joaoh82).
+Heavily inspired by [Going.go](https://medium.com/goingogo) of my friend [@joaoh82](https://github.com/joaoh82).
 
-Personal challenge to post every day a note about go.
+Personal challenge to post every day a note about Go.
 
 | Day | Title      |
 | --- |:----------:|
